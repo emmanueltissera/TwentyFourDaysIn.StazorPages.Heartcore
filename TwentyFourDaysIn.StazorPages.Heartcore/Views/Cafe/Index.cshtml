@@ -1,0 +1,14 @@
+﻿@model Cafe
+
+@{
+    Layout = "_SimpleLayout";
+}
+<div class="container">
+    <div class="jumbotron mt-3">
+        <h3>A little bit of indulgence at our cafe in</h3>
+        <h1>@Model.Title</h1>
+        <p class="lead">@Model.BuildingNumber @Model.AddressLine1 @Model.AddressLine2</p>
+        <p class="lead">@Model.Suburb @Model.State @Model.Postcode</p>
+        <a class="btn btn-lg btn-primary" href="@Model.Url" role="button">URL to self</a>
+    </div>
+</div>
