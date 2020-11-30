@@ -6,8 +6,12 @@ This sample allows for the creation of static HTML pages using [ASP.NET Core 5.0
 
 ## Prerequisites
 
-* Visual Studio 2019 version 16.8.2 or higher
-* ASP.NET Core 5.0
+* Visual Studio 2019 version 16.8.2 or higher 
+* OR Visual Studio Code 1.51.1 or higher
+* OR .NET Core CLI Host 5.0.0 or higher 
+* .NET SDK 5.0.100
+* Microsoft.AspNetCore.App 5.0.0 Runtime
+* Microsoft.NETCore.App 5.0.0 Runtime
 
 ## Getting Started
 
@@ -18,6 +22,11 @@ Once you have cloned this repo, complete the following steps:
 * Open the solution with `TwentyFourDaysIn.StazorPages.Heartcore.sln`.
 * In Solution Explorer, right-click the solution and select `Restore NuGet Packages`.
 * Run the solution using `IIS Express` 
+
+### With Visual Studio Code
+
+* Open the root folder with VS Code
+* Press F5 to debug and run
 
 ### With .NET Core CLI
 
