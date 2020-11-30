@@ -35,8 +35,8 @@ Once the solution is running, you can visit the following URLs on your local mac
 
 ### Running with Kestrel
 
-* [https://localhost:5001/cafes/melbourne-cbd/](https://localhost:44340/cafes/melbourne-cbd/)
-* [https://localhost:5001/cafes/sydney/](https://localhost:44340/cafes/sydney/)
+* [https://localhost:5001/cafes/melbourne-cbd/](https://localhost:5001/cafes/melbourne-cbd/)
+* [https://localhost:5001/cafes/sydney/](https://localhost:5001/cafes/sydney/)
 
 For other cafe page URLs, visit [Lord Lamington's cafe listing](https://lordlamingtonheartcore.azurewebsites.net/cafes/).
 
