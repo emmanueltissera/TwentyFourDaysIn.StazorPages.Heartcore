@@ -5,8 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="StazorPages" Version="1.0.0-alpha.2" />
-    <PackageReference Include="StazorPages.Heartcore" Version="1.0.0-alpha.2.1" />
+    <PackageReference Include="StazorPages" Version="1.0.0-alpha.3.1" />
+    <PackageReference Include="StazorPages.Heartcore" Version="1.0.0-alpha.3.1" />
   </ItemGroup>
 
 </Project>
